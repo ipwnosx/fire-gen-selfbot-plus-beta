@@ -1,0 +1,36 @@
+{
+    "token": "NTQ4NjI4NzE3NDcyMDU1Mjk2.D2hBRg.6--XVU3jKYqv9AWuWUzaywnINkE",
+    "prefix": "!",
+    "rolePerms":[
+        {   
+            "id": "548541217961541632",
+            "allowedCommands": ["help", "ev", "an", "we", "ru", "ve", "purge", "warn", "warns","mute","kick","ban"]
+        },
+        {
+            "id": "548541541032132675",
+            "allowedCommands": ["help", "ev", "an", "we", "ru", "ve", "purge", "warn", "warns","mute","kick","ban"]
+        },
+        {
+            "id": "548541664650592299",
+            "allowedCommands": ["help", "ev", "kick", "mute", "warn", "warns","purge","an"]
+        },
+        {
+            "id": "548544069006000150",
+            "allowedCommands": ["help", "ev"]
+        },
+        {
+            "id": "548544153760432131",
+            "allowedCommands": ["help", "ev"]
+        }
+    ],
+    "server": "548495259730968597",
+    "mutedRoleID": "548499251034849301",
+    "anChannelID": "548499251034849301",
+    "evChannelID": "548551464545419275",
+    "weChannelID": "548498990820491274",
+    "ruChannelID": "548540646923698187",
+    "veChannelID": "548547975270498325",
+    "autoRoleID": "548545240269717504",
+    "yE": "553283195341242389",
+    "nE": "553283195110424586"
+}

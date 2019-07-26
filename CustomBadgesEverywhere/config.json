@@ -1,0 +1,11 @@
+{
+    "token": "NTUyNDk3NTA2NTc2MjM2NTQ1.D2AZaQ.FmtpKuiIQZs9SOqLqWjFM882_X8",
+    "prefix": "?",
+    "staffPrefix": "!",
+    "dbData": {
+        "host": "localhost",
+        "dbname": "CustomBadges",
+        "user": "phpmyadmin",
+        "pass": "#ToS875601"
+    }
+}

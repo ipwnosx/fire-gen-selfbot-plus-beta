@@ -1,0 +1,29 @@
+{ 
+    "token"  : "NTM4NzM4NjMxMjk3MzM1MzI2.Dy4LCA.gdJiqCJO4aO2XiSlEAWb9gVJh54",
+    "prefix" : "!",
+    "staffprefix" : ":",
+    "maintenance": false,
+    "mainServer": "538043487145164828",
+    "checkChannel": "538044784582066176",
+    "customerRole": "538044768890912773",
+    "missingItemsChannel": "538044777241772043",
+    "botChannel": "538044782056964107",
+    "currentIP": "104.248.131.108",
+    "emojisReact": ["525820833407434792", "525620466828836871", "525620467575291904", "525620465788649474", "525620467093078028"],
+    "priceTypes": {
+      "fip": "<:FCfip:538044793272664077>",
+      "vip": "<:FCvip:538044791179575316>",
+      "vbucks": "<:FCvbucks:538044793838895114>"
+    },
+    "rarities": {
+      "common": "<:FCcommon:538044795495383070>",
+      "uncommon": "<:FCuncommon:538044794971226142>",
+      "rare": "<:FCrare:538044791825367050>",
+      "epic": "<:FCepic:538044792584667136>",
+      "legendary": "<:FClegendary:538044794052804637>"
+    },
+    "newServer": "538043487145164828",
+    "newCustomerRole": "538044768890912773",
+    "newPlatinumRole": "538044768664551444"
+  }
+  
